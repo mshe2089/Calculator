@@ -6,6 +6,8 @@
 #include <assert.h>
 #include "functions.h"
 
+//hehe
+
 //===================================================================================
 int main (int argc, char* argv[]) 
 {
